@@ -52,6 +52,7 @@ Head:
 ![328246585-30419de9-fb21-4da7-be4d-edaa08ac21cf](https://github.com/aryabaisakhiya/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393645/89622344-b84a-4052-abb2-8143ecb9d5c7)
 
 Kernel Model:
+
 ![328246985-8518412e-5791-4abc-8777-8b2e46b96018](https://github.com/aryabaisakhiya/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393645/9377319c-1c38-4ae0-9040-6a1b15b725ee)
 
 Accuracy and Classification report:
